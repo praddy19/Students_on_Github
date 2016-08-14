@@ -9,5 +9,5 @@ Add Your Profiles On Alphabatical Order(A-Z)
 
 - ```Apoorv Kumar(141186)``  https://github.com/apoorv9008
 - ```Raushan Kumar(141297)``` https://github.com/raushan4g
-- ```Santosh Ray(131386)```  https://github.com/santoshray02
+- ```Santosh Ray(131366)```  https://github.com/santoshray02
 
