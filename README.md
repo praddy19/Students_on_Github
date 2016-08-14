@@ -2,7 +2,7 @@
 ##Students_on_Github
 
 ```
-Add Your Profiles On **Enrollment Number** wise
+Add Your Profiles On basis of Enrollment_Number 
 ```
 
  > For adding your **github profile** [Click here](https://github.com/JUETGuna/Students_on_Github/edit/master/README.md)
